@@ -1,0 +1,113 @@
+header{
+	background-color: #553E4E;
+}
+
+.section1{
+	background-color: #372549;
+}
+
+.section2{
+	background-color: #1A1423;
+}
+
+footer{
+	background-color: #D4F2D2;
+}
+
+h1{
+	color: #FFFFFF;
+	font-family: "Exo", sans-serif;
+	font-size: 70px;
+	text-transform: uppercase;
+	text-shadow: 8px 8px 5px #A69888;
+}
+
+.subtitulo{
+	color:#FFFFFF;
+	font-family: "Russo One", sans-serif;
+	font-size: 40px;
+	text-shadow: 8px 8px 5px #A69888;
+	text-transform: uppercase;
+
+}
+
+.link{
+	color:#6B6D76;
+	font-family: "Exo", sans-serif;
+	font-weight: 700;
+}
+
+.link2{
+	color: #BFC0C0;
+	font-family: "Russo One", sans-serif;
+}
+
+
+.text{
+	color: #4F5D75;
+	font-size: 50px;
+	font-weight: 700;
+	text-transform: uppercase;
+	font-family: "Exo", sans-serif;
+}
+
+h3{
+	color:#BFC0C0;
+	font-family: "Russo One", sans-serif;
+	font-size: 40px;
+}
+
+.subtitulo2{
+	color:#FFFFFF;
+	font-family: "Exo", sans-serif;
+	font-size: 20px;
+}
+
+.subtitulo3{
+	color: #BFC0C0;
+	font-family: "Russo One", sans-serif;
+	font-size: 40px;
+	text-transform: uppercase;
+	text-shadow: text-shadow: 8px 8px 5px #FFFFFF;
+}
+
+h4{
+	color: #FFFFFF;
+	font-family: "Exo", sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	
+}
+
+.text2{
+	color: #BFC0C0;
+	font-family: "Exo"
+	font-size:20px;
+}
+
+.subtitulo3{
+	color: #ABA9BF;
+	font-family: "Exo";
+	font-size: 30px;
+}
+
+.icono{
+	font-size: 30px;
+}
+
+.googleplus{
+	color: #d34836;
+}
+
+.facebook{
+	color:#3b5998;
+}
+
+.twitter{
+	color:#55acee;
+}
+
+
+.pinterest{
+	color:#cb2027;
+}
